@@ -1,0 +1,6 @@
+Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner,car_age
+8.5,45000,Petrol,Individual,Manual,1,5
+12.0,30000,Diesel,Dealer,Automatic,0,3
+5.5,80000,CNG,Individual,Manual,2,8
+15.0,20000,Diesel,Dealer,Automatic,0,2
+6.8,55000,Petrol,Individual,Manual,1,6
